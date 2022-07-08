@@ -6,6 +6,9 @@ This is a Java Registration Project with GUI and MYSQL Database using Netbeans
 
 - [@sarvesveeriyah2312](https://github.com/sarvessveeriyah2312)
 
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
 
 ## Features
 
